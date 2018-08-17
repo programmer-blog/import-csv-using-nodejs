@@ -20,7 +20,7 @@ You can read detailed tutorial on our blog: http://programmerblog.net/import-csv
 6. Ajax GET request to fetch and display data using Nodejs and MongoDB
 
 
-Note: Run MongoDB nad on command line type command: 
+Note: Run MongoDB and on command line type command: 
     
      use dbproducts
  
